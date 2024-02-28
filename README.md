@@ -1,4 +1,5 @@
 # 14-mermaid-jpreuner
+```mermaid
 classDiagram
     MonoBehaviour <|-- PlayerController
     MonoBehaviour <|-- EnemyController
